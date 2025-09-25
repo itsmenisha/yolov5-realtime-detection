@@ -49,12 +49,12 @@ A real-time video object detection project using **YOLOv5**, implemented in Pyth
 
 You can also provide an image as input to show YOLOv5 detection:
 
-![Example Detection](nisha.jpg)
-<br> | 
-<br> |
-<br> v
- 
-![Example Detection](outputnisha.jpg)
-
+<p align="center">
+  <img src="nisha.jpg" alt="Input" width="300"/> 
+  <br>
+  ⬇
+  <br>
+  <img src="outputnisha.jpg" alt="Output" width="300"/>
+</p>
 
 
